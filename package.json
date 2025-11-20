@@ -1,0 +1,14 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "Il mio gestore password locale",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
